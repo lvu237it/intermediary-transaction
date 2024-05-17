@@ -1,0 +1,76 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jan 15, 2024, 10:44:16 PM
+    Author     : User
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+/*-------------------------------new -----------------------------*/
+.header-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+}
+.header-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+}
+.header-right div a {
+    text-decoration: none;
+}
+
+
+.header-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-top {
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.header-bottom {
+    background-color: rgb(126, 165, 238);
+}
+
+.container.header-bottom {
+    display: flex;
+    justify-content: center;
+}
+.fa-user{
+    font-size: 30px;
+}
+
+#iconuser{
+    cursor: pointer;
+}
+
+#logo-homepage{
+    font-size: 35px;
+}
+
+.select-input{
+    width: 10rem;
+}
+.gap-select-search{
+    gap: 0.5rem;
+}
+.font-size-icon{
+    font-size: 1.5rem;
+}
+.button-fake{
+    cursor: pointer;
+}

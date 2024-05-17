@@ -1,0 +1,21 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Feb 8, 2024, 2:07:48 AM
+    Author     : User
+*/
+
+.select-input{
+    width: 10rem;
+}
+.gap-select-search{
+    gap: 0.5rem;
+}
+.font-size-icon{
+    font-size: 1.5rem;
+}
+.button-fake{
+    cursor: pointer;
+}
